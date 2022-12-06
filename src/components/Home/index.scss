@@ -5,7 +5,7 @@
     top: 50%;
     transform: translateY(-50%);
     width: 40%;
-    max-height: 90%;
+    // max-height: 90%;
   }
 
   h1 {
@@ -23,6 +23,10 @@
     height: auto;
     animation: rotateIn 1s linear both;
     animation-delay: 2s;
+  }
+
+  p {
+    font-size: 3em;
   }
 }
 
